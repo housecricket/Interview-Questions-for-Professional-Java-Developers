@@ -4,7 +4,7 @@ Working with Java Data Types
 > * Use local variable type inference, including as lambda parameters
 
 **Question 1**
-> Which of the following are not valid variable names? (Choose two.) 
+> Which of the following are not valid variable names? (Choose two.) \n
 > **A. _**
 > B. _blue 
 > **C. 2blue** 
