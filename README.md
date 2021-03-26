@@ -1,5 +1,8 @@
 Interview Questions for Professional Java Developers
 # 1. Java Data Types
+> * Use primitives and wrapper classes, including, operators, parentheses, type promotion and casting
+> * Handle text using String and StringBuilder classes
+> * Use local variable type inference, including as lambda parameters
 # 2. Controlling Program Flow
 # 3. OOP
 # 4. Exception Handling
